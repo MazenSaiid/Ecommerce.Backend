@@ -1,0 +1,12 @@
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\bin\Debug\net7.0\Ecom.Backend.Core.deps.json
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\bin\Debug\net7.0\Ecom.Backend.Core.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\bin\Debug\net7.0\Ecom.Backend.Core.pdb
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.csproj.AssemblyReference.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.AssemblyInfoInputs.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.AssemblyInfo.cs
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.csproj.CoreCompileInputs.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\refint\Ecom.Backend.Core.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\Ecom.Backend.Core.pdb
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.Core\obj\Debug\net7.0\ref\Ecom.Backend.Core.dll

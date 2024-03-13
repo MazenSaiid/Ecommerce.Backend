@@ -1,0 +1,17 @@
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.InfraStructure.deps.json
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.InfraStructure.runtimeconfig.json
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.InfraStructure.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.InfraStructure.pdb
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.Core.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\bin\Debug\net7.0\Ecom.Backend.Core.pdb
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.csproj.AssemblyReference.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.AssemblyInfoInputs.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.AssemblyInfo.cs
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.csproj.CopyComplete
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\refint\Ecom.Backend.InfraStructure.dll
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.pdb
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\Ecom.Backend.InfraStructure.genruntimeconfig.cache
+D:\Dev Code\My Projects\Ecom.Backend\src\Ecom.Backend.InfraStructure\obj\Debug\net7.0\ref\Ecom.Backend.InfraStructure.dll

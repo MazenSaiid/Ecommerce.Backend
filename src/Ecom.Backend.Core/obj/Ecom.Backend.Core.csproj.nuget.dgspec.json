@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev Code\\My Projects\\Ecom.Backend\\src\\Ecom.Backend.Core\\Ecom.Backend.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev Code\\My Projects\\Ecom.Backend\\src\\Ecom.Backend.Core\\Ecom.Backend.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev Code\\My Projects\\Ecom.Backend\\src\\Ecom.Backend.Core\\Ecom.Backend.Core.csproj",
+        "projectName": "Ecom.Backend.Core",
+        "projectPath": "D:\\Dev Code\\My Projects\\Ecom.Backend\\src\\Ecom.Backend.Core\\Ecom.Backend.Core.csproj",
+        "packagesPath": "C:\\Users\\Mazen.s.AbdElHafez.CAIRO\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev Code\\My Projects\\Ecom.Backend\\src\\Ecom.Backend.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mazen.s.AbdElHafez.CAIRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
